@@ -1,0 +1,4 @@
+Cloud Computing is rising technology now a days as it can provide multiple services over a internet in reasonable cost .
+It provides IAAS, PAAS, SAAs
+User can accesss the services by paying for the only service he/she want to use and doesnt actually need to buy all that.
+  
